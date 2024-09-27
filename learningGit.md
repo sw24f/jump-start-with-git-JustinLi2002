@@ -3,3 +3,5 @@
 
 ## Personal Notes
 - Git makes version control easier by tracking changes and allowing collaboration.
+
+## Make a change to your file on GitHub and commit.
